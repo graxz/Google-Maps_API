@@ -8,9 +8,9 @@ router.get('', async (req, res) => {
             return res.data;
         })
 
-      res.status(201).json({ sucess: true, regions })
+      res.status(201).json({ success: true, regions })
     } catch (e) {
-        res.status(400).json({ sucess: false, error: e })
+        res.status(400).json({ success: false, error: e })
     }
 })
 

@@ -20,7 +20,7 @@ Tecnologias usadas:
 
 ## Heroku
 
-https://testenodejspleno.herokuapp.com/
+https://gmaps-api.onrender.com
 
 ### Instalação
 
